@@ -36,7 +36,7 @@
 
 ## Sample Video
 
-<img src="sample_gif.gif" height="550" width="270"/>
+<img src="MFP.gif" height="550" width="270"/>
 
 
 
